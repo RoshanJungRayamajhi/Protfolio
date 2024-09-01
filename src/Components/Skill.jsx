@@ -32,7 +32,7 @@ const Skill = () => {
     >
       <h1 className=" text-4xl sm:text-5xl font-New font-medium whitespace-nowrap">
         Things i'm
-        <span className="inline-block text-green-600  text-4xl sm:text-5xl tracking-tighter ml-4">
+        <span className="inline-block font-New font-medium text-green-600  text-4xl sm:text-5xl tracking-tighter ml-4">
           good
         </span>{" "}
         at

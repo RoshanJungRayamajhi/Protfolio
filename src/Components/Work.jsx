@@ -92,7 +92,7 @@ const Work = () => {
         animate="default"
         className=" sm:block lg:block hidden   bg-white/20 text-black  shadow-lg shadow-black/10 backdrop-blur-sm border border-white/40 absolute top-0 left-0 w-20 h-20 rounded-full z-[9999] "
       >
-       <h1 className=" flex items-center justify-center h-full w-full">
+       <h1 className=" font-New font flex items-center justify-center h-full w-full text-xl text-white">
         {text}
         
         </h1> 
