@@ -100,7 +100,7 @@ const Work = () => {
       <div className=" max-w-screen-xl mx-auto pt-10 pl-8 sm:pl-14">
         <h1 className=" text-3xl sm:text-5xl lg:text-5xl  sm:mb-3 text-white font-New font-medium whitespace-nowrap ">
           Watch my{" "}
-          <span className=" inline-block text-green-600 font-medium text-3xl sm:text-5xl">
+          <span className=" inline-block text-green-600 font-medium text-3xl sm:text-5xl font-New">
             artwork
           </span>
           .
