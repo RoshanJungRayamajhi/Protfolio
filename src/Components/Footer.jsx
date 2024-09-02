@@ -14,7 +14,7 @@ const Footer = () => {
  
   ])
   return (
-    <div className="w-full h-screen  py-12 lg:py-20 mt-24  relative">
+    <div className="w-full h-screen sm:h-fit lg:h-fit  py-12 lg:py-20 mt-24  relative">
       <div className=" my-0 max-w-screen-xl mx-auto  pl-8 sm:pl-14 flex items-start justify-between flex-wrap">
         <div className=" sm:w-fit  w-full">
           <h1 className=" text-green-600 font-New tracking-wide text-5xl sm:text-8xl font-semibold leading-[7vh] whitespace-nowrap">
