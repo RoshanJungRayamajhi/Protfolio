@@ -45,14 +45,14 @@ const Work = () => {
     },
     {
       name: "Movie viewer",
-      tech: ["React", "Tmdb api", "tailwind"],
+      tech: ["React", "Tmdb api", "tailwinds"],
       image:movieimg,
       video:movie,
       href: "https://front-end-domination-create-anything-with-code-q8ks.vercel.app/trending",
     },
     {
       name: "Canvas animation",
-      tech: ["html", "canvas", "tailwind"],
+      tech: ["html", "canvas", "tailwind","scroll trigger"],
       image:doze,
        video:dozevideo,
       href: "https://dozestudio.netlify.app/",

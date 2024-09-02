@@ -14,10 +14,10 @@ const Footer = () => {
  
   ])
   return (
-    <div className="w-full min-h-fit my-12 relative">
-      <div className=" my-0 max-w-screen-xl mx-auto  pl-8 sm:pl-14 flex items-start sm:justify-between flex-wrap">
-        <div className=" sm:w-1/2  w-full ">
-          <h1 className=" text-green-600 font-New tracking-wide text-2xl sm:text-8xl font-semibold whitespace-nowrap">
+    <div className="w-full h-screen  py-12 lg:py-20 mt-24  relative">
+      <div className=" my-0 max-w-screen-xl mx-auto  pl-8 sm:pl-14 flex items-start justify-between flex-wrap">
+        <div className=" sm:w-fit  w-full">
+          <h1 className=" text-green-600 font-New tracking-wide text-5xl sm:text-8xl font-semibold leading-[7vh] whitespace-nowrap">
             Let's Connect
           </h1>
           <h3 className="text-white font-New font-normal text-xl sm:text-4xl">
@@ -31,7 +31,7 @@ const Footer = () => {
             </span>
           </div>
         </div>
-        <div className=" mt-12 sm:mt-4 w-[25%]">
+        <div className=" mt-20 sm:mt-4 sm:w-[25%] w-full ">
           <h1 className=" text-left text-white font-New font-medium  text-3xl sm:text-6xl mb-2">
             Social
           </h1>
@@ -49,7 +49,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p className=" text-white text-center mt-20">Made with ❤️</p>
+      <p className=" text-white text-center mt-20 mb-0">Made with ❤️</p>
     </div>
   );
 };
